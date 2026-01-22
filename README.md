@@ -4,10 +4,6 @@
 <h3>High Performance Computing (HPC) Engineer | System Administrator</h3>
 <h4>MSc in Computer Science</h4>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
-
 </div>
 
 ---
